@@ -1,0 +1,7 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,Deaths,1,Global,3,Both,22,All ages,294,All causes,1,Number,2021,67871076.62497172,70624188.62552176,65111321.61785815
+1,Deaths,1,Global,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+1,Deaths,1,Global,3,Both,22,All ages,294,All causes,3,Rate,2021,860.0689138910507,894.9566181368125,825.097028817103
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,294,All causes,1,Number,2021,2883054326.3927264,3147689598.012937,2635339087.2726936
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,294,All causes,2,Percent,2021,1.0,1.0,1.0
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,294,All causes,3,Rate,2021,36534.34609400553,39887.83011043433,33395.27438248002

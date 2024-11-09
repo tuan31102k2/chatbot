@@ -1,0 +1,11 @@
+streamlit
+pymongo
+dnspython
+requests
+beautifulsoup4
+selenium
+pybase64
+# For visualization analysis
+pandas
+pandas_datareader
+yfinance
